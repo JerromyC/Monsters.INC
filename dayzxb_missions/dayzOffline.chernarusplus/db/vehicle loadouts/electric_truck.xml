@@ -1,0 +1,112 @@
+       <!-- Change name="" to whatever you need on the events only-->
+
+       
+       <!--  -->
+       <!-- For a single spawn only -->
+       <!-- add in events.xml -->
+        <event name="VehicleTruck01-Norwall">
+            <nominal>1</nominal>
+            <min>1</min>
+            <max>1</max>
+            <lifetime>300</lifetime>
+            <restock>0</restock>
+            <saferadius>500</saferadius>
+            <distanceradius>500</distanceradius>
+            <cleanupradius>200</cleanupradius>
+            <flags deletable="0" init_random="0" remove_damaged="1"/>
+            <position>fixed</position>
+            <limit>mixed</limit>
+            <active>1</active>
+            <children>
+                <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered"/>
+            </children>
+        </event>
+
+        <!--  -->
+        <!-- For a single spawn only -->
+        <!-- Spawn Truck in cfgeventspawns.xml -->
+	<event name="VehicleTruck01-Norwall">
+		<pos x="9859.91" z="2217.27" a="0" />
+	</event>
+
+        <!--  -->
+        <!-- You can use this template for all truck types or a single color if you want -->
+        <!-- add into appropriate truck in cfgspawnabletypes.xml; Truck_01_Covered in this example -->
+        <!-- ITEMS IN TRUNK (Electric Truck) (3/8/25__Norwall) -->
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PowerGenerator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PowerGenerator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BatteryCharger" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MetalWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MetalWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MetalWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MetalWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CableReel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CableReel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CableReel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CableReel" chance="1.00" />
+		</attachments>
+
+		<attachments chance="1.00">
+			<item name="Spotlight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Spotlight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Spotlight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Spotlight" chance="1.00" />
+		</attachments>
+		
+
+		<attachments chance="1.00">
+			<item name="Barrel_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Yellow" chance="1.00" />
+		</attachments>
+
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="1.00" />
+		</attachments>
+

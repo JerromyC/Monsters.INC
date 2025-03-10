@@ -1,0 +1,29 @@
+{
+    "Objects": [
+        {
+            "name": "Land_FuelStation_Feed",
+            "pos": [9805.2, 29.7, 2217.7],
+            "ypr": [0, 0, 0]
+        },
+        {
+            "name": "Land_FuelStation_Feed",
+            "pos": [4969.0, 9.9, 2420.6],
+            "ypr": [90, 0, 0]
+        },
+        {
+            "name": "Land_Misc_Well_Pump_Yellow",
+            "pos": [4961.3, 9.8, 2442.3],
+            "ypr": [0, 0, 0]
+        },
+        {
+            "name": "land_house_1w04",
+            "pos": [6520.0, 337.3, 9290.2],
+            "ypr": [0, 0, 0]
+        },
+        {
+            "name": "Land_House_1W12_Brown",
+            "pos": [4320.0, 310.0, 7904.3],
+            "ypr": [0, 0, 0]
+        }              
+    ]
+}   

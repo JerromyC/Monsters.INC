@@ -1,0 +1,73 @@
+<!-- Basic Car Loadout (civi) -->
+<!-- ITEMS IN TRUNK (2-28-2025__Norwall) -->
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PeachesCan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Rice" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Cola" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Fronta" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KitchenKnife" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanOpener" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+
+		<!-- Add a Weapon for civi+-->
+		<!-- FX45 -->
+		<attachments chance="1.00">
+			<item name="FNX45" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PistolOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TLRLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FNX45_15Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FNX45_15Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+		</attachments>
+
+		<attachments chance="1.00">
+			<item name="WeaponCleaningKit" chance="1.00" />
+		</attachments>
+        <!-- END OF TRUNK ITEMS -->

@@ -1,0 +1,434 @@
+	<!-- Clothing loadouts -->
+		<!-- MILITARY -->
+		<!-- Grey/Beige - Military -->
+		<attachments chance="1.00">
+			<item name="Mich2001Helmet" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalGloves_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalShirt_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CargoPants_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TTSKOBoots" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierVest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierPouches" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AssaultBag_Ttsko" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="PlateCarrierHolster" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="NylonKnifeSheath" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SmershVest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SmershBag" chance="1.00" />
+		</attachments>
+
+		<!-- Black - Military -->
+		<attachments chance="1.00">
+			<item name="Mich2001Helmet" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalGloves_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalShirt_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CargoPants_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TTSKOBoots" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierVest_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierPouches_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AssaultBag_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="PlateCarrierHolster" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="NylonKnifeSheath" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SmershVest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SmershBag" chance="1.00" />
+		</attachments>
+
+		<!-- Camo/Tan - Military -->
+		<attachments chance="1.00">
+			<item name="Mich2001Helmet" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalGloves_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalShirt_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CargoPants_Beige" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TTSKOBoots" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierVest_Camo" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster_Camo" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierPouches_Camo" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AssaultBag_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="PlateCarrierHolster" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="NylonKnifeSheath" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SmershVest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SmershBag" chance="1.00" />
+		</attachments>
+
+		<!-- Green suit - Military -->
+		<attachments chance="1.00">
+			<item name="Mich2001Helmet" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalGloves_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalShirt_Olive" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CargoPants_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TTSKOBoots" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierVest_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierPouches_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AssaultBag_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="PlateCarrierHolster" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="NylonKnifeSheath" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SmershVest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SmershBag" chance="1.00" />
+		</attachments>
+        
+
+
+
+		<!-- CIVILIAN -->
+		<!-- Civilian 01 -->
+		<attachments chance="1.00">
+			<item name="Raincoat_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CargoPants_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SlingBag_Brown" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BaseballCap_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WorkingGloves_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sneakers_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HipPack_Party" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+
+		<!-- Civilian 02 -->
+		<attachments chance="1.00">
+			<item name="TrackSuitJacket_LightBlue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Jeans_Brown" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DryBag_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BoonieHat_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoolGlovesFingerless_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AthleticShoes_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HipPack_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+
+		<!-- Civilian 03 -->
+		<attachments chance="1.00">
+			<item name="HikingJacket_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Breeches_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanvasBag_Olive" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BeanieHat_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoolGloves_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JoggingShoes_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CivilianBelt" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+
+
+	<!-- HUNTER -->
+	<!-- Hunter 01 -->
+		<attachments chance="1.00">
+			<item name="HuntingJacket_Spring" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HunterPants_Spring" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TaloonBag_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ushanka_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PaddedGloves_Brown" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingVest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NylonKnifeSheath" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingKnife" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Headtorch_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery" chance="1.00" />
+		</attachments>
+		
+
+		<!-- Hunter 02 -->
+		<attachments chance="1.00">
+			<item name="HuntingJacket_Brown" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HunterPants_Brown" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingBag" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Shemag_Brown" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PaddedGloves_Beige" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatBoots_Brown" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingVest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NylonKnifeSheath" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingKnife" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Headtorch_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery" chance="1.00" />
+		</attachments>
+
+		<!-- Hunter 03 -->
+		<attachments chance="1.00">
+			<item name="HuntingJacket_Autumn" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HunterPants_Autumn" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DryBag_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SherpaHat_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PaddedGloves_Threat" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatBoots_Grey" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingVest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NylonKnifeSheath" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingKnife" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Headtorch_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery" chance="1.00" />
+		</attachments>
+		

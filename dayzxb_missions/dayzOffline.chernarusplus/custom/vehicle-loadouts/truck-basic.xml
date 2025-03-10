@@ -1,0 +1,57 @@
+		<!-- Basic Loadout for a truck (basic builder) -->
+        <!-- add into cfgspawnables.xml -->
+        
+        <attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Cola" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Fronta" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodAxe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hacksaw" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Hammer" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Pliers" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Shovel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MetalWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombinationLock4" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Rope" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Rope" chance="1.00" />
+		</attachments>
+				<attachments chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</attachments>

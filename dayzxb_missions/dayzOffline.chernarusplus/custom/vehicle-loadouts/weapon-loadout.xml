@@ -1,0 +1,232 @@
+	<!-- Weapon loadout for vehicles -->
+	<!-- select one and add into vehicle on cfgspawnables.xml -->
+
+		<!-- M4A1 -->
+		<attachments chance="1.00">
+			<item name="M4A1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_RISHndgrd_Black" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_556x45_20Rnd" chance="1.00" />
+		</attachments>
+
+		<!-- M14 -->
+		<attachments chance="1.00">
+			<item name="M14" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+
+		<!-- FX45 -->
+		<attachments chance="1.00">
+			<item name="FNX45" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PistolOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TLRLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FNX45_15Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FNX45_15Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+		</attachments>
+
+		<attachments chance="1.00">
+			<item name="WeaponCleaningKit" chance="1.00" />
+		</attachments>
+        <!-- END OF FX45 -->
+
+		<!-- mk2 -->
+		<attachments chance="1.00">
+			<item name="MKII" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_MKII_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_MKII_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_MKII_10Rnd" chance="1.00" />
+		</attachments>
+
+		<attachments chance="1.00">
+			<item name="AmmoBox_22_50Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_22_50Rnd" chance="1.00" />
+		</attachments>
+
+		<attachments chance="1.00">
+			<item name="WeaponCleaningKit" chance="1.00" />
+		</attachments>
+		<!-- END OF MK2 -->
+
+		<!-- MLock -->
+		<attachments chance="1.00">
+			<item name="Glock19" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_Glock_15Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_Glock_15Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TLRLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+
+		<attachments chance="1.00">
+			<item name="AmmoBox_9x19_25rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_9x19_25rnd" chance="1.00" />
+		</attachments>
+		<!-- END OF MLock -->
+		
+		<!-- BK43 -->
+		<attachments chance="1.00">
+			<item name="Izh43Shotgun" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_12gaSlug_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_12gaSlug_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_12gaPellets" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_12gaPellets" chance="1.00" />
+		</attachments>
+		<!-- END OF BK43 -->
+
+		<!-- CZ527 -->
+		<attachments chance="1.00">
+			<item name="CZ527" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ527_5rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ527_5rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_762x39_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<!-- END OF CZ527 -->
+
+		<!-- Crossbow -->
+		<attachments chance="1.00">
+			<item name="Crossbow_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_HuntingBolt" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_HuntingBolt" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_HuntingBolt" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_HuntingBolt" chance="1.00" />
+		</attachments>
+		<!-- END OF Crossbow -->

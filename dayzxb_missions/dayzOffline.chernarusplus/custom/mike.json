@@ -1,0 +1,14 @@
+{
+    "Objects": [
+        {
+            "name": "Land_House_1W12_Brown",
+            "pos": [4320.0, 310.0, 7904.3],
+            "ypr": [0, 0, 0]
+        },
+        {
+            "name": "Land_FuelStation_Feed",
+            "pos": [4325.0, 29.7, 7904.3],
+            "ypr": [0, 0, 0]
+        }    
+    ]
+} 
